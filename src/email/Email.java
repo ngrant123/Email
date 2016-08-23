@@ -8,7 +8,7 @@ import java.util.Calendar;
 import java.io.Serializable;
 
 /**
- * This code constructs and contains all of the necessary for an Email here
+ * This code constructs and contains all of the necessary information for an Email here
  * It also contains a compareTo method the compares two Email objects with each other 
  * 
  * The body,subject, bcc, cc, and the to field are all available
